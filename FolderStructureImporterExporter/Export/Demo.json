@@ -1,0 +1,214 @@
+[
+  {
+    "OriginalPath": "FolderStructureImporterExporter",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.sln",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter.sln"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.v11.suo",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter.v11.suo"
+  },
+  {
+    "OriginalPath": "App.config",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\App.config"
+  },
+  {
+    "OriginalPath": "App.xaml",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\App.xaml"
+  },
+  {
+    "OriginalPath": "App.xaml.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\App.xaml.cs"
+  },
+  {
+    "OriginalPath": "bin",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin"
+  },
+  {
+    "OriginalPath": "DataContractJsonSerializer.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\DataContractJsonSerializer.cs"
+  },
+  {
+    "OriginalPath": "ExportHelper.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\ExportHelper.cs"
+  },
+  {
+    "OriginalPath": "ExternalLibraries",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\ExternalLibraries"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.csproj",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\FolderStructureImporterExporter.csproj"
+  },
+  {
+    "OriginalPath": "ImportExportHelper.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\ImportExportHelper.cs"
+  },
+  {
+    "OriginalPath": "ImportHelper.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\ImportHelper.cs"
+  },
+  {
+    "OriginalPath": "JsonHelper.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\JsonHelper.cs"
+  },
+  {
+    "OriginalPath": "MainWindow.xaml",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\MainWindow.xaml"
+  },
+  {
+    "OriginalPath": "MainWindow.xaml.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\MainWindow.xaml.cs"
+  },
+  {
+    "OriginalPath": "obj",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj"
+  },
+  {
+    "OriginalPath": "Properties",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties"
+  },
+  {
+    "OriginalPath": "Debug",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.exe",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.exe"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.exe.config",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.exe.config"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.pdb",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.pdb"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.vshost.exe",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.vshost.exe"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.vshost.exe.config",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.vshost.exe.config"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.vshost.exe.manifest",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\bin\\Debug\\FolderStructureImporterExporter.vshost.exe.manifest"
+  },
+  {
+    "OriginalPath": "Newtonsoft.Json.dll",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\ExternalLibraries\\Newtonsoft.Json.dll"
+  },
+  {
+    "OriginalPath": "Debug",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug"
+  },
+  {
+    "OriginalPath": "App.g.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\App.g.cs"
+  },
+  {
+    "OriginalPath": "App.g.i.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\App.g.i.cs"
+  },
+  {
+    "OriginalPath": "DesignTimeResolveAssemblyReferencesInput.cache",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\DesignTimeResolveAssemblyReferencesInput.cache"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.csproj.FileListAbsolute.txt",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.csproj.FileListAbsolute.txt"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.csproj.GenerateResource.Cache",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.csproj.GenerateResource.Cache"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.csprojResolveAssemblyReference.cache",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.csprojResolveAssemblyReference.cache"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.exe",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.exe"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.g.resources",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.g.resources"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.pdb",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.pdb"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter.Properties.Resources.resources",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter.Properties.Resources.resources"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter_Content.g.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter_Content.g.cs"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter_Content.g.i.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter_Content.g.i.cs"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter_MarkupCompile.cache",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter_MarkupCompile.cache"
+  },
+  {
+    "OriginalPath": "FolderStructureImporterExporter_MarkupCompile.i.cache",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\FolderStructureImporterExporter_MarkupCompile.i.cache"
+  },
+  {
+    "OriginalPath": "MainWindow.baml",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\MainWindow.baml"
+  },
+  {
+    "OriginalPath": "MainWindow.g.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\MainWindow.g.cs"
+  },
+  {
+    "OriginalPath": "MainWindow.g.i.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\MainWindow.g.i.cs"
+  },
+  {
+    "OriginalPath": "TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"
+  },
+  {
+    "OriginalPath": "TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"
+  },
+  {
+    "OriginalPath": "TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"
+  },
+  {
+    "OriginalPath": "TempPE",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\obj\\Debug\\TempPE"
+  },
+  {
+    "OriginalPath": "AssemblyInfo.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties\\AssemblyInfo.cs"
+  },
+  {
+    "OriginalPath": "Resources.Designer.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties\\Resources.Designer.cs"
+  },
+  {
+    "OriginalPath": "Resources.resx",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties\\Resources.resx"
+  },
+  {
+    "OriginalPath": "Settings.Designer.cs",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties\\Settings.Designer.cs"
+  },
+  {
+    "OriginalPath": "Settings.settings",
+    "FullPath": "D:\\1241327\\StudyProjects\\FolderStructureImporterExporter\\FolderStructureImporterExporter\\Properties\\Settings.settings"
+  }
+]
